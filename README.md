@@ -5,36 +5,16 @@
   <h1 align="center">Guide de cybersécurité</h1>
 </p>
 
-## :dart: Le guide pour relancer votre carrière
+## :dart: Le guide pour demarrer votre carrière
 
 Vous trouverez ci-dessous du contenu pour vous guider et vous aider à devenir un professionnel dans le domaine de la sécurité de l'information ou à vous spécialiser si vous travaillez déjà dans le domaine, consultez le référentiel pour découvrir de nouveaux outils pour votre quotidien, des technologies à intégrer dans votre pile en vue de devenir un professionnel à jour et différencié en matière de sécurité de l'information, certains sites ou articles peuvent être dans une langue différente de la vôtre, mais cela ne vous empêche pas de pouvoir lire l'article ou le site dans question, vous pouvez utiliser l'outil de traduction de Google pour traduire : des sites Web, des fichiers, des textes.
 
-<sub> <strong>Suivez-nous sur les réseaux sociaux pour suivre plus de contenu : </strong> <br>
-[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
-[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/seixasqlc/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthurspk/)
-[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/manotoquinho)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/guiadevbrasil/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
-</sub>
-
-## 💌Dons
-
-> Bonjour ! Si vous lisez ceci, vous connaissez probablement déjà mon référentiel sur GitHub, qui propose du contenu gratuit pour aider les développeurs à perfectionner leurs compétences. Et si vous êtes ici, vous envisagez peut-être de faire un don pour soutenir la poursuite du projet.
-
-- [Cliquez ici pour faire un don ! 💓](https://beacons.ai/doacoesguiadev)
-
-> Si vous souhaitez contribuer, plusieurs options sont disponibles, notamment PayPal, PagSeguro, Mercado Pago, Buy Me A Coffe, Pic Pay et Pix. Tout don, aussi petit soit-il, est extrêmement bienvenu et sera utilisé de manière responsable et transparente. Merci d'envisager de soutenir mon projet ! Ensemble, nous pouvons continuer à partager nos connaissances et contribuer à bâtir une communauté de développeurs plus forte et plus collaborative.
-
+ 
 ## :closed_book: Livre électronique
 
-> Ce référentiel est un projet gratuit pour la communauté des développeurs. Vous pouvez m'aider en achetant le livre électronique "e-Front" si vous souhaitez apprendre ou améliorer vos compétences en développement front-end. Le livre électronique est complet et couvre les technologies essentielles telles que HTML, CSS, JavaScript, React, TypeScript et bien plus encore. La valeur est symbolique et votre achat m'aide à produire et fournir plus de contenu gratuit à la communauté. Obtenez-le maintenant et commencez votre parcours de développement front-end.
-
-- eFront - Étudier le développement front-end à partir de zéro. [Cliquez ici pour acheter](https://hotm.art/cSMObU)
 
 ## ⚠️ Avis important
-
+Ce contenu est inspiree du projet de Guia Dev Brasil.
 > Tout d'abord, vous pouvez m'aider et collaborer avec moi, il a fallu beaucoup de travail pour créer ce référentiel et l'organiser pour améliorer votre étude ou votre travail, vous pouvez donc m'aider des manières suivantes
 
 - Suivez-moi sur [Github](https://github.com/arthurspk)
@@ -55,7 +35,7 @@ Vous trouverez ci-dessous du contenu pour vous guider et vous aider à devenir u
 - Discutez des idées dans les problèmes
 - Partagez le référentiel avec votre communauté
 
-## 🌍 Tradução
+## 🌍 Traductions
 > Si vous souhaitez accompagner ce référentiel dans une langue autre que le portugais, vous pouvez opter pour les choix de langues ci-dessous, vous pouvez également collaborer à la traduction dans d'autres langues et à la correction d'éventuelles fautes d'orthographe, la communauté vous remercie.
 
 <img src = "https://i.imgur.com/lpP9V2p.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>English — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
@@ -100,7 +80,7 @@ Vous trouverez ci-dessous du contenu pour vous guider et vous aider à devenir u
 [🌌 Communautés Discord](#-discord-communities) <br>
 [📚 Recommandations de livres](#-book-recommendations) <br>
 [🛠️ Cadres et outils de piratage Web](#%EF%B8%8F-web-hacking-frameworks-and-tools) <br>
-[🪓Outils pour obtenir des informations](#-outils-pour-obtenir-des informations) <br>
+[🪓Outils pour obtenir des informations] (#-outils-pour-obtenir-des informations) <br>
 [🔧 Outils Pentesting](#-pentesting-tools) <br>
 [🔨 Outils de piratage matériel](#-hardware-hacking-tools) <br>
 [🦉 Sites et cours pour apprendre le C](#-sites-et-cours-pour-apprendre-c) <br>
