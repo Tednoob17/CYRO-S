@@ -14,7 +14,7 @@ Vous trouverez ci-dessous du contenu pour vous guider et vous aider à devenir u
 Ce contenu est inspiree du projet de Guia Dev Brasil.
 > Tout d'abord, vous pouvez m'aider et collaborer avec moi, il a fallu beaucoup de travail pour créer ce référentiel et l'organiser pour améliorer votre étude ou votre travail, vous pouvez donc m'aider des manières suivantes
 
-- Suivez-moi sur [Github](https://github.com/arthurspk)
+- Suivez-le sur [Github](https://github.com/arthurspk)
 - Accédez aux réseaux sociaux de [Guia Dev Brasil](https://linktr.ee/guiadevbrasil)
 - Envoyez vos commentaires sur [Linkedin](https://www.linkedin.com/in/arthurspk/)
 
