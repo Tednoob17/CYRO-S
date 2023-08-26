@@ -28,7 +28,7 @@ Ce contenu est inspiree du projet de Guia Dev Brasil.
 
 ## 🚨 Collaborer
 
-- Ouvrir les demandes de tirage avec des mises à jour
+- Ouvrir des pulls request pour toutes importantes modifications
 - Discutez des idées dans les problèmes
 - Partagez le référentiel avec votre communauté
 
@@ -48,57 +48,6 @@ Ce contenu est inspiree du projet de Guia Dev Brasil.
 <img src = "https://i.imgur.com/wWRZMNK.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Japanese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
 
 
-## 📚INDICE
-
-[🗺️ Feuille de route pour la cybersécurité](#%EF%B8%8F-cyber-security-roadmap) <br>
-[🔧 Outils de traduction de contenu](#-content-translation-tools) <br>
-[🧥 Introduction à la zone de cybersécurité](#-introduction-à-la-zone-de-cyber-sécurité) <br>
-[💼 Carrières en cybersécurité](#-cyber-security-careers) <br>
-[🕵️‍♂️ Sites pour étudier la cybersécurité](#%EF%B8%8F%EF%B8%8F-sites-to-study-cyber-security) <br>
-[📰 Sites d'actualités](#-cyber-security-news-sites) <br>
-[📃 Newsletters](#-newsletters-de-cyber-sécurité) <br>
-[🗃️ Piratage génial](#%EF%B8%8F-awesome-hacking) <br>
-[🔗 Tests de sécurité des API](#-api-security-tests) <br>
-[🎥 Chaînes Youtube](#-youtube-channels) <br>
-[🔎 Outils de recherche](#-search-tools) <br>
-[📱 Outils mobiles](#-mobile-tools) <br>
-[🎤 Podcasts](#-cyber-security-podcasts) <br>
-[📽️ Conférences](#%EF%B8%8F-conférences) <br>
-[🃏 Aide-mémoire](#-aide-mémoire) <br>
-[♟️Exploitation](#%EF%B8%8F-exploitation) <br>
-[🎬 Documentaires](#-documentaires) <br>
-[🚩 Capturez le drapeau](#-capture-the-flag) <br>
-[🐧 Distributions Linux](#-linux-distros) <br>
-[💻Machines virtuelles](#-machines-virtuelles) <br>
-[💰 Sites de bugs Bounty](#-bounty-bug-sites) <br>
-[📮 Profils Twitter](#-twitter-profils) <br>
-[✨ Profils sur Instagram](#-profils-sur-instagram) <br>
-[🎇 Communautés Reddit](#-reddit-communities) <br>
-[🌌 Communautés Discord](#-discord-communities) <br>
-[📚 Recommandations de livres](#-book-recommendations) <br>
-[🛠️ Cadres et outils de piratage Web](#%EF%B8%8F-web-hacking-frameworks-and-tools) <br>
-[🪓Outils pour obtenir des informations] (#-outils-pour-obtenir-des informations) <br>
-[🔧 Outils Pentesting](#-pentesting-tools) <br>
-[🔨 Outils de piratage matériel](#-hardware-hacking-tools) <br>
-[🦉 Sites et cours pour apprendre le C](#-sites-et-cours-pour-apprendre-c) <br>
-[🐬 Sites Web et cours pour apprendre Go](#-sites-et-cours-pour-apprendre-go) <br>
-[🦚 Sites et cours pour apprendre le C#](#-sites-et-cours-pour-apprendre-c-1) <br>
-[🐸 Sites et cours pour apprendre le C++](#-sites-et-cours-pour-apprendre-c-2) <br>
-[🐘 Sites et cours pour apprendre le PHP](#-sites-et-cours-pour-apprendre-php) <br>
-[🦓 Sites et cours pour apprendre Java](#-sites-et-cours-pour-apprendre-java) <br>
-[🐦 Sites et cours pour apprendre Ruby](#-sites-et-cours-pour-apprendre-ruby) <br>
-[🐪 Sites et cours pour apprendre le Perl](#-sites-et-cours-pour-apprendre-le-perl) <br>
-[🐷 Sites et cours pour apprendre Bash](#-sites-et-cours-pour-apprendre-bash) <br>
-[🐴 Sites et cours pour apprendre MySQL](#-sites-et-cours-pour-apprendre-mysql) <br>
-[🐧 Sites et cours pour apprendre Linux](#-sites-et-cours-pour-apprendre-linux) <br>
-[🦂 Sites et cours pour apprendre Swift](#-sites-et-cours-pour-apprendre-swift) <br>
-[🐍 Sites et cours pour apprendre Python](#-sites-et-cours-pour-apprendre-python) <br>
-[🐋 Sites et cours pour apprendre Docker](#-sites-et-cours-pour-apprendre-docker) <br>
-[🐼 Sites et cours pour apprendre l'assemblage](#-sites-et-cours-pour-apprendre-l'assemblage) <br>
-[🦞 Sites et cours pour apprendre Powershell](#-sites-et-cours-pour-apprendre-Powershell) <br>
-[🖥️ Sites et cours pour apprendre le piratage matériel](#%EF%B8%8F-sites-et-cours-pour-apprendre-le-piratage matériel) <br>
-[📡 Sites et cours pour apprendre les réseaux informatiques](#-sites-et-cours-pour-apprendre-les-réseaux-informatiques) <br>
-[🎓Certifications de cybersécurité](#-cyber-security-certifications) <br>
 
 ## 🗺️ Feuille de route pour la cybersécurité
 
