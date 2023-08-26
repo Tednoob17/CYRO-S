@@ -112,6 +112,47 @@ Ce contenu est inspiree du projet de Guia Dev Brasil.
 - [DeepL](https://www.deepl.com/pt-BR/translator)
 - [Reverso](https://context.reverso.net/traducao/ingles-portugues/translate)
 
+
+## 👨‍🏫 Sites pour étudier la programmation
+
+- [Rocketseat](https://rocketseat.com.br/) - Cours gratuits sur les technologies les plus en vogue du marché
+- [Digital Innovation One](http://digitalinnovation.one/) - Plateforme éducative gratuite qui développe et connecte les talents
+- [Devenez programmeur](https://www.torneseumprogramador.com.br/cursos) - Des dizaines de cours gratuits complets et avancés avec des applications réelles du marché.
+- [Cours vidéo](https://www.cursoemvideo.com/) - Cours de base gratuits pour débutants
+- [Origamid](https://www.origamid.com/) - Cours gratuits et payants pour développer vos compétences dans le domaine de l'UX & UI Design et du développement front-end
+- [Développement Udemy](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1 400 cours de développement gratuits
+- [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=en&sort=popularity) - +100 cours d'informatique et de logiciels
+- [HackerRank](https://www.hackerrank.com/) - Défis de programmation back-end. Avec IDE intégré
+- [Hackerearth](https://www.hackerearth.com/) - Site Web pour développer vos compétences en codage.
+- [CoderByte](https://coderbyte.com/) - Défis de programmation back-end. Avec IDE intégré
+- [Coderchef](https://www.codechef.com/) - Site pour étudier la programmation, le code, etc.
+- [W3Resources](https://w3resource.com) - Exercices en ligne pour pratiquer de nombreuses langues
+- [Coursera](https://www.coursera.org/) - Cours gratuits avec un contenu réputé
+- [Scrimba](https://scrimba.com/) - Cours gratuits et payants pour apprendre les technologies Front-end les plus demandées
+- [CodePen](https://codepen.io/) - Réseau social pour les développeurs front-end
+- [Codementor](https://www.codementor.io/) - Site pour pratiquer et apprendre à développer vos compétences en tant que développeur
+- [FreeCodeCamp](https://www.freecodecamp.org/) - Apprenez à coder gratuitement et gagnez un portfolio en aidant les organisations à but non lucratif
+- [GeeksForGeeks](https://www.geeksforgeeks.org/) - Plateforme pour développer vos compétences dans différents domaines de la programmation
+- [W3Schools](https://www.w3schools.com) - De nombreuses documentations expliquées de manière intuitive
+- [Khan Academy](https://pt.khanacademy.org/) - Plateforme d'étude réputée sur l'apprentissage gamifié
+- [Udacity](https://www.udacity.com/) - Apprentissage technologique avec les contenus les plus tendances du marché (IA, data science, cloud computing, etc.)
+- [SoloLearn](https://www.sololearn.com/) - Apprenez à programmer gratuitement sur mobile ou sur le Web
+- [edX](https://www.edx.org/) - Apprenez des meilleurs cours d'informatique et de science des données dispensés par des professeurs des plus grandes et des meilleures universités du monde.
+- [Treehouse](https://teamtreehouse.com/) - Cours pour développeurs et amélioration de portefeuille
+- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Diverses plateformes de codage en ligne
+- [TheOdinProject](https://www.theodinproject.com/) - Site pour apprendre la programmation et le développement à travers des cours
+- [FrontEndMaster](https://frontendmasters.com/) - Site pour apprendre la programmation et le développement à travers des cours
+- [Balta.io](https://balta.io) - Site pour apprendre la programmation et le développement à travers des cours
+- [FrontEndMaster](https://frontendmasters.com/) - Site pour apprendre la programmation et le développement à travers des cours
+- [DataScienceAcademy](https://www.datascienceacademy.com.br/) - Site avec plusieurs cours gratuits pour débuter dans le monde de Python & DataScience
+- [FIAPx](https://www.fiap.com.br/fiapx) - Site avec plusieurs cours gratuits en technologie
+- [FGV](https://educacao-executiva.fgv.br/busca?keys=&curso_tipo%5B%5D=517&modalidade%5B%5D=45&area-conhec%5B%5D=571&tipo_invest%5B1%5D=1&estados=26&cidades =251&unidade=All&sort_by=field_oferta_data_inicio_turma_value&items_per_page=10&mail_address_me=) - Site avec plusieurs cours gratuits dans le domaine de la technologie
+- [CodeAcademy](https://www.codecademy.com/) - Site avec plusieurs cours de programmation gratuits (EN)
+- [Kaggle](https://www.kaggle.com/learn) - Site avec plusieurs cours gratuits Python & DataScience (EN)
+- [Introduction complète au développement Web](https://btholt.github.io/intro-to-web-dev-v2/) - Site avec les principaux contenus liés au développement Web créé et maintenu par l'un des professeurs du Masters de sites frontend (EN)
+- [4noobs](https://github.com/he4rt/4noobs) - Référentiel conçu pour montrer les connaissances de base dans plusieurs langages et outils pour les développeurs débutants.
+
+
 ## 🧥 Introduction au domaine Cybersécurité
 > Également appelée sécurité informatique ou sécurité des technologies de l'information, la cybersécurité est la pratique consistant à protéger le matériel et les logiciels contre le vol ou les dommages, tels que les serveurs, les appareils mobiles, les réseaux et les applications, dont sont responsables les personnes qui travaillent dans le domaine de la cybersécurité d'une entreprise. Pour identifier tous les points vulnérables de l'entreprise dans l'environnement numérique et dans les différents systèmes, le métier consiste à cartographier tous les points faibles, qui peuvent servir de passerelle à des attaques virtuelles. De plus, il est important de simuler toutes les attaques possibles qui pourraient être menées et de créer des protections contre elles, en anticipant les faits afin de pouvoir renforcer la sécurité de l'information et la redondance des processus et des systèmes de bases de données, afin pour éviter l'interruption des services, en général, les personnes qui travaillent dans le domaine de la cybersécurité doivent effectuer une série d'activités, telles que :
 
@@ -551,15 +592,6 @@ Ce contenu est inspiree du projet de Guia Dev Brasil.
 - [Hacker Hunter: WannaCry The History Marcus Hutchin](https://lnkd.in/dnPcnvSv)
 - [The Life Hacker Documentary](https://lnkd.in/djAqBhbw)
 - [Hacker The Realm and Electron - Hacker Group](https://lnkd.in/dx_uyTuT)
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1233,7 +1265,7 @@ Ce contenu est inspiree du projet de Guia Dev Brasil.
 
 ## 🖥️ Sites et cours pour apprendre le Hardware Hacking
 
-
+[VirtuVOD](https://www.youtube.com/@VirtuVOD)
 
 
 
