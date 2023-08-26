@@ -112,47 +112,6 @@ Ce contenu est inspiree du projet de Guia Dev Brasil.
 - [DeepL](https://www.deepl.com/pt-BR/translator)
 - [Reverso](https://context.reverso.net/traducao/ingles-portugues/translate)
 
-
-## 👨‍🏫 Sites pour étudier la programmation
-
-- [Rocketseat](https://rocketseat.com.br/) - Cours gratuits sur les technologies les plus en vogue du marché
-- [Digital Innovation One](http://digitalinnovation.one/) - Plateforme éducative gratuite qui développe et connecte les talents
-- [Devenez programmeur](https://www.torneseumprogramador.com.br/cursos) - Des dizaines de cours gratuits complets et avancés avec des applications réelles du marché.
-- [Cours vidéo](https://www.cursoemvideo.com/) - Cours de base gratuits pour débutants
-- [Origamid](https://www.origamid.com/) - Cours gratuits et payants pour développer vos compétences dans le domaine de l'UX & UI Design et du développement front-end
-- [Développement Udemy](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1 400 cours de développement gratuits
-- [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=en&sort=popularity) - +100 cours d'informatique et de logiciels
-- [HackerRank](https://www.hackerrank.com/) - Défis de programmation back-end. Avec IDE intégré
-- [Hackerearth](https://www.hackerearth.com/) - Site Web pour développer vos compétences en codage.
-- [CoderByte](https://coderbyte.com/) - Défis de programmation back-end. Avec IDE intégré
-- [Coderchef](https://www.codechef.com/) - Site pour étudier la programmation, le code, etc.
-- [W3Resources](https://w3resource.com) - Exercices en ligne pour pratiquer de nombreuses langues
-- [Coursera](https://www.coursera.org/) - Cours gratuits avec un contenu réputé
-- [Scrimba](https://scrimba.com/) - Cours gratuits et payants pour apprendre les technologies Front-end les plus demandées
-- [CodePen](https://codepen.io/) - Réseau social pour les développeurs front-end
-- [Codementor](https://www.codementor.io/) - Site pour pratiquer et apprendre à développer vos compétences en tant que développeur
-- [FreeCodeCamp](https://www.freecodecamp.org/) - Apprenez à coder gratuitement et gagnez un portfolio en aidant les organisations à but non lucratif
-- [GeeksForGeeks](https://www.geeksforgeeks.org/) - Plateforme pour développer vos compétences dans différents domaines de la programmation
-- [W3Schools](https://www.w3schools.com) - De nombreuses documentations expliquées de manière intuitive
-- [Khan Academy](https://pt.khanacademy.org/) - Plateforme d'étude réputée sur l'apprentissage gamifié
-- [Udacity](https://www.udacity.com/) - Apprentissage technologique avec les contenus les plus tendances du marché (IA, data science, cloud computing, etc.)
-- [SoloLearn](https://www.sololearn.com/) - Apprenez à programmer gratuitement sur mobile ou sur le Web
-- [edX](https://www.edx.org/) - Apprenez des meilleurs cours d'informatique et de science des données dispensés par des professeurs des plus grandes et des meilleures universités du monde.
-- [Treehouse](https://teamtreehouse.com/) - Cours pour développeurs et amélioration de portefeuille
-- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Diverses plateformes de codage en ligne
-- [TheOdinProject](https://www.theodinproject.com/) - Site pour apprendre la programmation et le développement à travers des cours
-- [FrontEndMaster](https://frontendmasters.com/) - Site pour apprendre la programmation et le développement à travers des cours
-- [Balta.io](https://balta.io) - Site pour apprendre la programmation et le développement à travers des cours
-- [FrontEndMaster](https://frontendmasters.com/) - Site pour apprendre la programmation et le développement à travers des cours
-- [DataScienceAcademy](https://www.datascienceacademy.com.br/) - Site avec plusieurs cours gratuits pour débuter dans le monde de Python & DataScience
-- [FIAPx](https://www.fiap.com.br/fiapx) - Site avec plusieurs cours gratuits en technologie
-- [FGV](https://educacao-executiva.fgv.br/busca?keys=&curso_tipo%5B%5D=517&modalidade%5B%5D=45&area-conhec%5B%5D=571&tipo_invest%5B1%5D=1&estados=26&cidades =251&unidade=All&sort_by=field_oferta_data_inicio_turma_value&items_per_page=10&mail_address_me=) - Site avec plusieurs cours gratuits dans le domaine de la technologie
-- [CodeAcademy](https://www.codecademy.com/) - Site avec plusieurs cours de programmation gratuits (EN)
-- [Kaggle](https://www.kaggle.com/learn) - Site avec plusieurs cours gratuits Python & DataScience (EN)
-- [Introduction complète au développement Web](https://btholt.github.io/intro-to-web-dev-v2/) - Site avec les principaux contenus liés au développement Web créé et maintenu par l'un des professeurs du Masters de sites frontend (EN)
-- [4noobs](https://github.com/he4rt/4noobs) - Référentiel conçu pour montrer les connaissances de base dans plusieurs langages et outils pour les développeurs débutants.
-
-
 ## 🧥 Introduction au domaine Cybersécurité
 > Également appelée sécurité informatique ou sécurité des technologies de l'information, la cybersécurité est la pratique consistant à protéger le matériel et les logiciels contre le vol ou les dommages, tels que les serveurs, les appareils mobiles, les réseaux et les applications, dont sont responsables les personnes qui travaillent dans le domaine de la cybersécurité d'une entreprise. Pour identifier tous les points vulnérables de l'entreprise dans l'environnement numérique et dans les différents systèmes, le métier consiste à cartographier tous les points faibles, qui peuvent servir de passerelle à des attaques virtuelles. De plus, il est important de simuler toutes les attaques possibles qui pourraient être menées et de créer des protections contre elles, en anticipant les faits afin de pouvoir renforcer la sécurité de l'information et la redondance des processus et des systèmes de bases de données, afin pour éviter l'interruption des services, en général, les personnes qui travaillent dans le domaine de la cybersécurité doivent effectuer une série d'activités, telles que :
 
@@ -176,21 +135,21 @@ Ce contenu est inspiree du projet de Guia Dev Brasil.
 - [Biométrique](https://www.thoughtworks.com/pt-br/insights/decoder/b/biometrics)
 - [IA Sécurité](https://successfulstudent.org/jobs-in-information-assurance-and-security/)
 - [Sécurité IoT](https://www.quora.com/How-do-I-start-my-career-in-IoT-Security)
-- [Cryptographie](https://www.wgu.edu/career-guide/information-technology/cryptographer-career.html#openSubscriberModal)
-- [Sécurité Cloud](https://www.cybersecurityjobsite.com/staticpages/10291/careers-in-cloud-security/)
+- [Cryptographie](https://www.wgu.edu/career-guide/information-technology/cryptographer-career.html#:~:text=What%20Does%20a%20Cryptographer%20Do,%2C%20business%2C %20ou%20données%20militaires.)
+- [Sécurité Cloud](https://www.cybersecurityjobsite.com/staticpages/10291/careers-in-cloud-security/#:~:text=Cloud%20security%20careers%20are%20set,thes%20critical%20systems% 20sont%20en sécurité.)
 - [Prévention de la fraude](https://www.zippia.com/fraud-prevention-specialist-jobs/)
-- [Analyse des logiciels malveillants](https://onlinedegrees.sandiego.edu/malware-analyst-career-guide/)
+- [Analyse des logiciels malveillants](https://onlinedegrees.sandiego.edu/malware-analyst-career-guide/#:~:text=A%20malware%20analyst%20works%20in,%2C%E2%80%9D%20explains %20l'Institut%20Infosec%20.)
 - [Piratage matériel](https://www.helpnetsecurity.com/2019/07/15/hardware-hacker/)
 - [Sécurité du Big Data](https://www.simplilearn.com/cyber-security-vs-data-science-best-career-option-article)
 - [Sécurité physique](https://www.zippia.com/physical-security-specialist-jobs/what-does-a-physical-security-specialist-do/)
 - [Sensibilisation à la sécurité](https://resources.infosecinstitute.com/topic/security-awareness-manager-is-it-the-career-for-you/)
-- [Information sur les menaces](https://www.eccouncil.org/cybersecurity-exchange/threat-intelligence/why-pursue-career-cyber-threat-intelligence/)
+- [Information sur les menaces](https://www.eccouncil.org/cybersecurity-exchange/threat-intelligence/why-pursue-career-cyber-threat-intelligence/#:~:text=Put%20simply%2C%20threat% 20intelligence%20professionnels, combat%20menaces%20existantes%20et%20émergentes%20.)
 - [Continuité des activités](https://www.zippia.com/business-continuity-planner-jobs/)
 - [Sécurité des opérations](https://www.zippia.com/operational-security-specialist-jobs/)
 - [Sécurité des applications](https://www.appsecengineer.com/blog/guide-to-becoming-an-application-security-engineer)
 - [Juridique et règlementaire](https://onlinemasterolegalstudies.com/career-guides/)
 - [Sécurité des communications](https://www.ukcybersecuritycouncil.org.uk/qualifications-and-careers/careers-route-map/cryptography-communications-security/)
-- [Ingénieur en cybersécurité](https://onlinedegrees.sandiego.edu/should-you-become-a-cyber-security-engineer/)
+- [Ingénieur en cybersécurité](https://onlinedegrees.sandiego.edu/should-you-become-a-cyber-security-engineer/#:~:text=Cybersecurity%20engineers%2C%20sometimes%20call%20information , et %20tous%20types%20de%20cybercriminalité.)
 - [Cyber Analytics avancée](https://www.coursera.org/articles/cybersecurity-analyst-job-guide)
 - [Gestion des vulnérabilités](https://www.ukcybersecuritycouncil.org.uk/qualifications-and-careers/careers-route-map/vulnerability-management/)
 - [Systèmes de contrôle industriels](https://ianmartin.com/careers/177380-industrial-control-system-ics-engineer/)
@@ -198,15 +157,15 @@ Ce contenu est inspiree du projet de Guia Dev Brasil.
 - [Délégué à la protection des données (DPO)](https://www.michaelpage.com.hk/advice/job-description/technology/data-protection-officer)
 - [Ingénieur en tests d'intrusion](https://onlinedegrees.sandiego.edu/vulnerability-and-penetration-testing/)
 - [Sécurité et évaluation des risques](https://learn.org/articles/What_are_Some_Career_Options_in_Security_Risk_Assessment.html)
-- [Gestion des identités et des accès](https://identitymanagementinstitute.org/identity-and-access-management-career-and-jobs/)
-- [Sécurité du développement logiciel](https://cybersecurityguide.org/careers/security-software-developer/)
+- [Gestion des identités et des accès](https://identitymanagementinstitute.org/identity-and-access-management-career-and-jobs/#:~:text=Identity%20and%20access%20management%20career%20and%20jobs% 20implique%20la protection%20des systèmes,les mécanismes%20et%20ont%20les%20appropriés)
+- [Sécurité du développement logiciel](https://cybersecurityguide.org/careers/security-software-developer/#:~:text=A%20security%20software%20developer%20is,writing%20and%20verbal%20communication%20skills.)
 - [Sécurité offensive (équipe rouge)](https://careers.mitre.org/us/en/job/R107322/Offensive-Security-Red-Team-Developer)
-- [Sécurité défensive (équipe bleue)](https://www.csnp.org/post/a-career-in-defensive-security-blue-team)
+- [Sécurité défensive (équipe bleue)](https://www.csnp.org/post/a-career-in-defensive-security-blue-team#:~:text=What%20is%20the%20Blue%20team ,toutes%20les%20mesures%20desécurité%20appliquées.)
 - [Gestion et analyse des incidents](https://www.ziprecruiter.com/Career/Incident-Response-Analyst/What-Is-How-to-Become)
-- [Détection et prévention des introductions](https://www.spiceworks.com/it-security/vulnerability-management/articles/what-is-idps/)
+- [Détection et prévention des introductions](https://www.spiceworks.com/it-security/vulnerability-management/articles/what-is-idps/#:~:text=An%20intrusion%20detection%20and%20prevention, administrateur%20et%20empêche%20les%20attaques potentielles.)
 - [Gouvernance de la sécurité de l'information](https://www.ukcybersecuritycouncil.org.uk/qualifications-and-careers/careers-route-map/cyber-security-governance-risk-management/)
 - [Cadres et normes de sécurité](https://www.linkedin.com/pulse/overview-cyber-security-frameworks-standards-tommy/)
-- [Architecture et conception de sécurité](https://www.infosectrain.com/blog/roles-and-responsabilités-of-a-security-architect/)
+- [Architecture et conception de sécurité](https://www.infosectrain.com/blog/roles-and-responsabilités-of-a-security-architect/#:~:text=A%20Security%20Architect%20creates%2C% 20plans,%2C%20cybersécurité%2C%20et%20gestion%20des risques.)
 
 ## 🕵️‍♂️ Sites pour étudier la cybersécurité
 
@@ -594,7 +553,6 @@ Ce contenu est inspiree du projet de Guia Dev Brasil.
 - [Hacker The Realm and Electron - Hacker Group](https://lnkd.in/dx_uyTuT)
 
 
-
 ## 🚩 Capture the Flag
 
 - [Hacker 101](https://www.hackerone.com/hackers/hacker101)
@@ -772,7 +730,7 @@ Ce contenu est inspiree du projet de Guia Dev Brasil.
 - [TheBlackSide](https://discord.gg/pUeuzxvft7)
 
 
-> Livres recommandés pour améliorer vos connaissances en cybersécurité en anglais
+## 📚  Livres recommandés pour améliorer vos connaissances en cybersécurité (anglais)
 - [Hacking : l'art de l'exploitation](https://www.amazon.com.br/Hacking-Exploitation-CDROM-Jon-Erickson/dp/1593271441)
 - [Tests d'intrusion : une introduction pratique au piratage](https://www.amazon.com.br/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
 - [The Hacker Playbook 2 : Guide pratique des tests d'intrusion](https://www.amazon.com.br/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566)
@@ -784,17 +742,28 @@ Ce contenu est inspiree du projet de Guia Dev Brasil.
 - [Livre de jeu Bug Bounty](https://payhip.com/b/wAoh)
 - [Chasse aux bogues dans le monde réel : un guide pratique du piratage Web](https://www.amazon.com.br/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616)
 - [Guide de test OWASP V10](https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf)
--[Black Hat Python : Programmation Python pour les pirates et les pentesters](https://www.amazon.com.br/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=asc_df_1593275900/?tag=googleshopp00-20&linkCode =df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=12817915842755546773&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid= pla- 406163956473&psc=1)
--[Black Hat Python, 2e édition : Programmation Python pour les pirates et les pentesters](https://www.amazon.com.br/Black-Hat-Python-2nd-Programming/dp/1718501129/ref=asc_df_1718501129/?tag= googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=12817915842755546773&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1 00 1506&hvtargid=pla-1129943149832&psc=1)
-- [Black Hat Go : programmation Go pour les pirates et les pentesters](https://www.amazon.com.br/Black-Hat-Go-Programming-Pentesters/dp/1593278659/ref=asc_df_1593278659/?tag=googleshopp00-20&linkCode =df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=12817915842755546773&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid= pla- 872661430541&psc=1)
+
+-[Black Hat Python :Python Programming for Hackers and Pentesters](https://www.amazon.com.br/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=asc_df_1593275900/?tag=googleshopp00-20&linkCode)
+
+
+-[Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com.br/Black-Hat-Python-2nd-Programming/dp/1718501129/ref=asc_df_1718501129/?tag=)
+
+- [Black Hat Go : Go Programming for Hackers and Pentesters](https://www.amazon.com.br/Black-Hat-Go-Programming-Pentesters/dp/1593278659/ref=asc_df_1593278659/?tag=googleshopp00-20&linkCode)
+
 - [Tests d'intrusion avancés : pirater les réseaux les plus sécurisés au monde](https://www.amazon.com.br/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)
+
 - [Grey Hat Hacking : Le manuel du hacker éthique](https://www.amazon.com.br/Gray-Hat-Hacking-Ethical-Handbook/dp/0072257091)
 - [Ingénierie sociale : l'art du piratage humain](https://www.amazon.com.br/Social-Engineering-Art-Human-Hacking/dp/0470639539)
-- [Ingénierie sociale : la science du piratage humain](https://www.amazon.com.br/Social-Engineering-Science-Human-Hacking/dp/111943338X/ref=asc_df_111943338X/?tag=googleshopp00-20&linkCode=df0&hvadid 7 0823&psc=1)
-- [Ingénierie sociale pratique : introduction au hacker éthique](https://www.amazon.com.br/Practical-Social-Engineering-Joe-Gray/dp/171850098X/ref=asc_df_171850098X/?tag=googleshopp00-20&linkCode =df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=10534013289063384157&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid= pla- 934732928526&psc=1)
-- [Analyse pratique des logiciels malveillants : le guide pratique pour disséquer les logiciels malveillants](https://www.amazon.com.br/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=asc_df_1593272901/?tag= googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1 00 1506&hvtargid=pla-406163956073&psc=1)
-- [Analyse binaire pratique : créez vos propres outils Linux pour l'instrumentation, l'analyse et le désassemblage binaires](https://www.amazon.com.br/Practical-Binary-Analysis-Instrumentation-Disassembly/dp/1593279124/ref=asc_df_1593279124 /?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvloc phy= 1001506&hvtargid=pla-525099683939&psc=1)
-- [Rootkits et bootkits : inverser les logiciels malveillants modernes et les menaces de nouvelle génération](https://www.amazon.com.br/Rootkits-Bootkits-Reversing-Malware-Generation/dp/1593277164/ref=asc_df_1593277164/?tag=googleshopp00- 20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=18239998534715401467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506 &hv targid=pla-326856398373&psc=1)
+- [Ingénierie sociale : la science du piratage humain](https://www.amazon.com.br/Social-Engineering-Science-Human-Hacking/dp/111943338X/ref=asc_df_111943338X/?tag=googleshopp00-20&linkCode=df0&hvadid)
+
+- [Ingénierie sociale pratique : introduction au hacker éthique](https://www.amazon.com.br/Practical-Social-Engineering-Joe-Gray/dp/171850098X/ref=asc_df_171850098X/?tag=googleshopp00-20&linkCode)
+
+
+- [Analyse pratique des logiciels malveillants : le guide pratique pour disséquer les logiciels malveillants](https://www.amazon.com.br/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=asc_df_1593272901/?tag=)
+
+- [Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly](https://www.amazon.com.br/Practical-Binary-Analysis-Instrumentation-Disassembly/dp/1593279124/ref=asc_df_1593279124)
+
+- [Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats](https://www.amazon.com.br/Rootkits-Bootkits-Reversing-Malware-Generation/dp/1593277164/ref=asc_df_1593277164/?tag=googleshopp00-)
 
 
 ## 🛠️ Cadres et outils de piratage Web
@@ -1265,7 +1234,7 @@ Ce contenu est inspiree du projet de Guia Dev Brasil.
 
 ## 🖥️ Sites et cours pour apprendre le Hardware Hacking
 
-[VirtuVOD](https://www.youtube.com/@VirtuVOD)
+
 
 
 
